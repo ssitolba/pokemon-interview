@@ -1,0 +1,72 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+  }
+  
+  .flex-container > div {
+    background-color: #ffffff;
+    margin: -10px;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+  }
+  
+  body {
+    font-family: sans-serif;
+  }
+  
+  .item-name {
+    font-size: 25px;
+    font-weight: 200;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #313131;
+    margin-left: 10px;
+  }
+  
+  .item-tag {
+    font-size: 12px;
+    font-weight: bold;
+    color: #919191;
+    margin-left: 10px;
+    margin-top: 0px;
+  }
+  
+  .item-image {
+    background-color: #F2F2F2;
+    border-radius: 8px;
+  }
+  
+  .item-btn-grass {
+    background-color: #9bcc50;
+    border: 0;
+    color: #212121;
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+    margin-left: 10px;
+  }
+  
+  .item-btn-poison {
+    background-color: #b97fc9;
+    border: 0;
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+    color: #F2F2F2;
+    font-family: sans-serif;
+    margin-left: 0px;
+  }
+  
+  .item-btn-fire {
+    background-color: #fd7d24;
+    border: 0;
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+    color: #F2F2F2;
+    font-family: sans-serif;
+    margin-left: 10px;
+  }
+  
